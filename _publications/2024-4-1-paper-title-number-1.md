@@ -6,7 +6,7 @@ excerpt:
 date: 2024-4-1
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/2404.00914.pdf'
-citation: 'Yuanhao Zeng, Min Wang, Yihang Wang, Yingxia Shao. (2024). &quot;Token-Efficient Leverage Learning in Large Language Models.&quot; <i>Arxiv.</i>2024'
+citation: 'Yuanhao Zeng, Min Wang, <b>Yihang Wang</b>, Yingxia Shao. (2024). &quot;Token-Efficient Leverage Learning in Large Language Models.&quot; <i>Arxiv.</i>2024'
 ---
 
 **Abstract**
