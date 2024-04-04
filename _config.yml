@@ -21,7 +21,7 @@ repository               : "bool1020/bool1020.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Yihang Wang(汪奕航)"
   pronouns         : "he/him"  
   bio              : "An undergraduate student majoring in AI."
