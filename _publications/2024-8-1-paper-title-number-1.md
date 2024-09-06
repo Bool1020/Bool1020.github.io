@@ -4,12 +4,10 @@ collection: publications
 permalink: /publication/2024-8-2-paper-title-number-1
 excerpt: 
 date: 2024-8-2
-venue: 'Arxiv'
+venue: 'CCIR'
 paperurl: 'https://arxiv.org/pdf/2408.00274.pdf'
-citation: 'Wenshan Wang, <b>Yihang Wang</b>, Yixing Fan, Huaming Liao, Jiafeng Guo. (2024). &quot;QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression.&quot; <i>Arxiv.</i>2024'
+citation: 'Wenshan Wang, <b>Yihang Wang</b>, Yixing Fan, Huaming Liao, Jiafeng Guo. (2024). &quot;QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression.&quot; <i>The 30th China Conference on Information Retrieval, CCIR 2024</i>2024'
 ---
-
-[link](https://arxiv.org/abs/2408.00274)
 
 **Abstract**
 
