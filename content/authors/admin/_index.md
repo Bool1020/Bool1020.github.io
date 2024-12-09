@@ -62,7 +62,7 @@ education:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
   - area: MEng Artificial Intelligence
-    institution: Institute of Computing Technology, University of Chinese Academy of Sciences
+    institution: University of Chinese Academy of Sciences
     date_start: 2025-09-01
     # date_end: 2028-06-01
     # summary: |
@@ -73,7 +73,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: School of Artificial Intelligence, Beijing University of Posts and Telecommunications
+    institution: Beijing University of Posts and Telecommunications
     date_start: 2021-09-01
     date_end: 2025-06-01
     # summary: |
