@@ -64,6 +64,7 @@ sections:
     design:
       view: citation
   - block: collection
+    demo: true
     id: talks
     content:
       title: Recent & Upcoming Talks
