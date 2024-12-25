@@ -9,6 +9,6 @@ authors:
 date: '2024-07-01'
 publishDate: '2024-12-25T07:21:45.829698Z'
 publication_types:
-- conference-journal
+- paper-conference
 publication: 'The 30th China Conference on Information Retrieval (CCIR 2024)'
 ---
