@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a student at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests focus on natural language processing and multimodal learning.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am dedicated to exploring innovative approaches to improve model performance and uncover their potential in real-world applications.
+
+        Feel free to reach out if you're interested in collaboration! 😃
     design:
       columns: '1'
   - block: collection
@@ -63,16 +63,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      view: article-grid
+#      columns: 1
   - block: collection
     id: news
     content:
