@@ -1,9 +1,6 @@
 ---
 # Display name
-title: 汪奕航
-
-# Name pronunciation (optional)
-name_pronunciation: Yihang Wang
+title: Yihang Wang
 
 # Full name (for SEO)
 first_name: Yihang
