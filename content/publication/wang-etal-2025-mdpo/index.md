@@ -11,6 +11,7 @@ date: '2025-01-01'
 publishDate: '2025-01-21T07:25:24.736457Z'
 publication_types:
 - paper-conference
+featured: true
 publication: '*Proceedings of the 31st International Conference on Computational Linguistics* (COLING 2025)'
 abstract: With the extensive use of large language models, automatically generating
   QA datasets for domain-specific fine-tuning has become crucial. However, considering
