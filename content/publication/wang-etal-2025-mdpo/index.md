@@ -25,7 +25,5 @@ abstract: With the extensive use of large language models, automatically generat
   language models to produce high-quality and domain-specific QA pairs. Empirical
   results on public datasets indicate that MDPO`s performance substantially surpasses
   that of state-of-the-art methods.
-links:
-- name: URL
-  url: https://aclanthology.org/2025.coling-main.711/
+url_pdf: https://aclanthology.org/2025.coling-main.711.pdf
 ---
