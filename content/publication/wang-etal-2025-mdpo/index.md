@@ -2,7 +2,7 @@
 title: 'MDPO: Customized Direct Preference Optimization with a Metric-based Sampler
   for Question and Answer Generation'
 authors:
-- Yihang Wang
+- admin
 - Bowen Tian
 - Yueyang Su
 - Yixing Fan
@@ -11,7 +11,7 @@ date: '2025-01-01'
 publishDate: '2025-01-21T07:25:24.736457Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the 31st International Conference on Computational Linguistics*'
+publication: '*Proceedings of the 31st International Conference on Computational Linguistics* (COLING 2025)'
 abstract: With the extensive use of large language models, automatically generating
   QA datasets for domain-specific fine-tuning has become crucial. However, considering
   the multifaceted demands for readability, diversity, and comprehensiveness of QA
