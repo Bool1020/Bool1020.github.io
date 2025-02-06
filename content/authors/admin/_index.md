@@ -81,17 +81,12 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-    # summary: |2-
-    #   Responsibilities include:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Intern at MEG (Mobile Ecosystem Group)
     company_name: Baidu Inc.
     company_url: ''
     company_logo: ''
     date_start: 2024-09-02
-    date_end: 2025-02-21
+    date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
