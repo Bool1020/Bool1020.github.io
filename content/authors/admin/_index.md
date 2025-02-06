@@ -81,12 +81,23 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Intern at Data
+    company_name: ByteDance
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-02-24
+    date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Intern at MEG (Mobile Ecosystem Group)
     company_name: Baidu Inc.
     company_url: ''
     company_logo: ''
     date_start: 2024-09-02
-    date_end: ''
+    date_end: 2025-02-21
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
