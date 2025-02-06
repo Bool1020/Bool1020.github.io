@@ -81,12 +81,6 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Intern at Data
-    company_name: ByteDance
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-02-24
-    date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
