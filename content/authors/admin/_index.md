@@ -46,7 +46,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Natural Language Processing
-  - Knowledge Distillation
+  - Representation Learning
 
 education:
   # - area: PhD Artificial Intelligence
