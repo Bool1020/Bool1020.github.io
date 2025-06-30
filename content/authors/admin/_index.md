@@ -86,7 +86,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-02-24
-    date_end: ''
+    date_end: 2025-07-01
   - position: Intern at MEG (Mobile Ecosystem Group)
     company_name: Baidu Inc.
     company_url: ''
