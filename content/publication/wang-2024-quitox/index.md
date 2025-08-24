@@ -11,7 +11,7 @@ authors:
 - Jiafeng Guo
 - Xueqi Cheng
 date: '2025-08-01'
-publishDate: '2025-8-20T08:16:55.997950Z'
+publishDate: '2025-08-20T08:16:55.997950Z'
 publication_types:
 - paper-conference
 featured: true
