@@ -1,7 +1,7 @@
 ---
 title: 🎉 Congratulations on EMNLP 2025 Paper Acceptance!
 summary: 'Our paper "QUITO-X: A New Perspective on Context Compression from the Information Bottleneck Theory" has been accepted by EMNLP 2025! 🎉'
-date: 2025-8-20
+date: 2025-08-20
 authors:
   - admin
 tags:
