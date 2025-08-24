@@ -10,8 +10,8 @@ authors:
 - Yixing Fan
 - Jiafeng Guo
 - Xueqi Cheng
-date: '2025-09-01'
-publishDate: '2025-12-25T08:16:55.997950Z'
+date: '2025-08-01'
+publishDate: '2025-8-20T08:16:55.997950Z'
 publication_types:
 - paper-conference
 featured: true
