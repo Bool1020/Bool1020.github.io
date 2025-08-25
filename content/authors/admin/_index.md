@@ -195,4 +195,4 @@ awards:
 
 ## About Me
 
-I am an undergraduate student majoring in Artificial Intelligence at Beijing University of Posts and Telecommunications, with a strong interest in Natural Language Processing. I have excellent academic performance (average score of 89.34). I possess strong self-learning capabilities, research and engineering practice abilities, communication skills, and a positive attitude. I have rich experience in scientific research, having participated in multiple projects.
+I am currently a master’s student at the Institute of Computing Technology, Chinese Academy of Sciences, with a research focus on representation learning and information retrieval. I am passionate about exploring fundamental challenges in Natural Language Processing and related areas. I possess strong self-learning capabilities, solid research and engineering practice experience, effective communication skills, and a positive, collaborative attitude. I have also accumulated rich research experience through participation in multiple academic projects.
