@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a student at the Institute of Computing Technology, Chinese Academy of Sciences. My current research interests focus on natural language processing and multimodal learning.
+        My current research interests focus on representation learning and information retrieval, within the broader area of natural language processing.
 
-        I am dedicated to exploring innovative approaches to improve model performance and uncover their potential in real-world applications.
-        
-        Feel free to reach out if you're interested in collaboration! 😃
+        I am dedicated to developing innovative methods for building more effective and robust representations, and advancing retrieval techniques to better support real-world applications.
+
+        Feel free to reach out if you’re interested in collaboration! 😃
     design:
       columns: '1'
   - block: collection
