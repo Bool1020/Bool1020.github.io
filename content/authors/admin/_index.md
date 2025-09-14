@@ -81,12 +81,6 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Intern
-    company_name: Beijing Academy of Artificial Intelligence
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-07-02
-    date_end: ''
   - position: Intern at Data
     company_name: ByteDance
     company_url: ''
