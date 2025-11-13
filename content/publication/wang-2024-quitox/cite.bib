@@ -1,6 +1,26 @@
-@article{wang2024quitox,
- author = {Wang, Yihang and Huang, Xu and Tian, Bowen and Su, Yueyang and Yu, Lei and Liao, Humming and Fan, Yixing and Guo, Jiafeng and Cheng, Xueqi},
- journal = {arXiv preprint arXiv:2408.10497},
- title = {QUITO-X: A New Perspective on Context Compression from the Information Bottleneck Theory},
- year = {2024}
+@inproceedings{wang-etal-2025-quito,
+    title = "{QUITO}-{X}: A New Perspective on Context Compression from the Information Bottleneck Theory",
+    author = "Wang, Yihang  and
+      Huang, Xu  and
+      Tian, Bowen  and
+      Su, Yueyang  and
+      Yu, Lei  and
+      Liao, Huaming  and
+      Fan, Yixing  and
+      Guo, Jiafeng  and
+      Cheng, Xueqi",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.362/",
+    doi = "10.18653/v1/2025.findings-emnlp.362",
+    pages = "6841--6856",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Generative large language models ( LLMs) have achieved remarkable success in various industrial applications, owing to their promising In-Context Learning capabilities. However, the issue of long context in complex tasks poses a significant barrier to their wider adoption, manifested in two main aspects: (i) The excessively long context leads to high costs and inference delays. (ii) A substantial amount of task-irrelevant information introduced by long contexts exacerbates the ``lost in the middle'' problem. Existing methods compress context by removing redundant tokens using metrics such as self-information or perplexity ( PPL ), which is inconsistent with the objective of retaining the most important tokens when conditioning on a given query. In this study, we introduce information bottleneck theory (IB) to model the problem, offering a novel perspective that thoroughly addresses the essential properties required for context compression. Additionally, we propose a cross-attention-based approach to approximate mutual information in IB, which can be flexibly replaced with suitable alternatives in different scenarios. Extensive experiments on four datasets demonstrate that our method achieves a 25{\%} increase in compression rate compared to the state-of-the-art, while maintaining question answering performance. In particular, the context compressed by our method even outperform the full context in some cases."
 }
