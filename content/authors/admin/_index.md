@@ -87,7 +87,7 @@ work:
     company_logo: ''
     date_start: 2025-11-10
     date_end: ''
-  - position: Intern at Data
+  - position: Intern at Data Platform
     company_name: ByteDance
     company_url: ''
     company_logo: ''
