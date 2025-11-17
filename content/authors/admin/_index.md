@@ -81,7 +81,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Intern
+  - position: Intern at TX model
     company_name: MiniMax
     company_url: ''
     company_logo: ''
