@@ -19,17 +19,19 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        gradient_mesh:
+          enable: true
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: balanced # Options: compact (long names), balanced (default), display (short names)
+
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
       title: '📚 My Research'
@@ -83,7 +85,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 10
       # Filter on criteria
       filters:
         author: ""
