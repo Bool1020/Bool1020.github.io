@@ -62,8 +62,9 @@ education:
     institution: University of Chinese Academy of Sciences
     date_start: 2025-09-01
     # date_end: 2028-06-01
-    # summary: |
-    #   GPA: 3.8/4.0
+    summary: |
+      Academic Services:
+      - Secondary Reviewer: SIGIR 2025
 
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
