@@ -64,7 +64,7 @@ education:
     # date_end: 2028-06-01
     summary: |
       Academic Services:
-      - Secondary Reviewer: SIGIR 2025
+      - Secondary Reviewer: SIGIR 2025, KDD 2026
 
     #   Courses included:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
