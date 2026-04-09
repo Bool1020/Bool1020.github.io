@@ -82,20 +82,26 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Intern at TX Model
+  - position: Machine Learning Engineer Intern at Data Platform
+    company_name: ByteDance
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-04-13
+    date_end: ''
+  - position: Large Model Algorithm Engineer Intern at TX Model
     company_name: MiniMax
     company_url: ''
     company_logo: ''
     date_start: 2025-11-10
-    date_end: ''
-  - position: Intern at Data Platform
+    date_end: 2026-04-10
+  - position: Machine Learning Engineer Intern at Data Platform
     company_name: ByteDance
     company_url: ''
     company_logo: ''
     date_start: 2025-02-24
     date_end: 2025-07-01
-  - position: Intern at MEG (Mobile Ecosystem Group)
-    company_name: Baidu Inc.
+  - position: Machine Learning R&D Engineer Intern at MEG (Mobile Ecosystem Group)
+    company_name: Baidu, Inc.
     company_url: ''
     company_logo: ''
     date_start: 2024-09-02
@@ -105,7 +111,7 @@ work:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Intern at CAS Key Lab of Web Data Science and Technology
+  - position: Research Intern at CAS Key Lab of Web Data Science and Technology
     company_name: Institute of Computing Technology, Chinese Academy of Sciences
     company_url: ''
     company_logo: ''
