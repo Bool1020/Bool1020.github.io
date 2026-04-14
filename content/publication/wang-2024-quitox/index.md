@@ -1,7 +1,7 @@
 ---
 title: 'QUITO-X: A New Perspective on Context Compression from the Information Bottleneck Theory'
 authors:
-- admin
+- me
 - Xu Huang
 - Bowen Tian
 - Yueyang Su
