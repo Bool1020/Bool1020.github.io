@@ -2,7 +2,7 @@
 title: 'QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression'
 authors:
 - Wenshan Wang
-- admin
+- me
 - Yixing Fan
 - Huaming Liao
 - Jiafeng Guo
