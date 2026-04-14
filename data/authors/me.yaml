@@ -1,0 +1,143 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Yihang Wang
+  given: Yihang
+  family: Wang
+  alternate: '汪奕航'  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+# postnominals:
+#   - PhD
+#   - MIEEE
+status:
+  icon: "☕️"
+role: MEng Artificial Intelligence
+bio: |
+  I am currently a master’s student at the Institute of Computing Technology, Chinese Academy of Sciences, with a research focus on representation learning and information retrieval. I am passionate about exploring fundamental challenges in Natural Language Processing and related areas. I possess strong self-learning capabilities, solid research and engineering practice experience, effective communication skills, and a positive, collaborative attitude. I have also accumulated rich research experience through participation in multiple academic projects.
+
+affiliations:
+  - name: UCAS
+    url: https://www.ucas.ac.cn/
+    
+links:
+  - icon: at-symbol
+    url: 'mailto:yihangwang1020@gmail.com'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Bool1020
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yihangwang1020/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=Hj2S-bIAAAAJ
+
+interests:
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Representation Learning
+  
+education:
+  - degree: M.Eng Artificial Intelligence
+    institution: University of Chinese Academy of Sciences
+    start: 2025-09-01
+    # end: 2028-06-01
+    summary: |
+      Academic Services:
+      - Secondary Reviewer: SIGIR 2025, KDD 2026
+    button:
+      text: Download dissertation
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
+  - degree: B.Eng Artificial Intelligence
+    institution: Beijing University of Posts and Telecommunications
+    start: 2021-09-01
+    end: 2025-06-01
+
+experience:
+  - role: Machine Learning Engineer Intern at Data Platform
+    org: ByteDance
+    start: 2026-04-13
+    end: ''
+  - role: Large Model Algorithm Engineer Intern at TX Model
+    org: MiniMax
+    start: 2025-11-10
+    end: 2026-04-10
+  - role: Machine Learning Engineer Intern at Data Platform
+    org: ByteDance
+    start: 2025-02-24
+    end: 2025-07-01
+  - role: Machine Learning R&D Engineer Intern at MEG (Mobile Ecosystem Group)
+    org: Baidu, Inc.
+    start: 2024-09-02
+    end: 2025-02-21
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - role: Research Intern at CAS Key Lab of Web Data Science and Technology
+    org: Institute of Computing Technology, Chinese Academy of Sciences
+    start: 2023-03-14
+    end: 2024-08-01
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - role: Intern at FLOES
+    org: Wuhan Ligong Guangke CO.Ltd
+    start: 2022-06-11
+    end: 2022-08-01
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: Machine Learning
+        level: 5
+      - label: Natural Language Processing
+        level: 5
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 4
+      - label: Grant Proposals
+        level: 4
+
+languages:
+  - name: Chinese
+    level: 5
+    label: Native
+  - name: English
+    level: 3
+    label: Fluent
+
+awards:
+  - title: CCIR Cup 2024 - WeChat Emoticon Search Challenge Rank 6
+    date: '2024-10-01'
+    awarder: Chinese Information Processing Society of China
+  - title: Gold Award in the "Lingang Cup" Artificial Intelligence Global Innovation Competition
+    date: '2023-12-01'
+    awarder: Fudan University
+  - title: Second Prize in The Beijing College students Engineering practice and innovation ability competition
+    date: '2023-11-01'
+    awarder: Beijing Municipal Education Commission
+  - title: The third prize in the Beijing Division of the Blue Bridge Cup National Software and Information Technology Professional Talent Competition
+    date: '2023-06-01'
+    awarder: Talent exchange center of Ministry of industry and information technology
+  - title: Second Prize in The Chinese Mathematics Competition
+    date: '2022-12-01'
+    awarder: Chinese Mathematical Society
+  - title: First Prize in The Beijing Mathematics Competition
+    date: '2022-12-01'
+    awarder: Beijing Mathematical Society
+  - title: Second Prize in Chinese Chemistry Olympiad (Preliminary Test)
+    date: '2020-10-01'
+    awarder: Chinese Chemical Society
+  - title: Second Prize in China High School Biology Olympiad
+    date: '2020-10-01'
+    awarder: China Zoological Society, Botanical Society of China
