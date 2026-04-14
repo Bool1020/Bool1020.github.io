@@ -2,7 +2,7 @@
 title: 'MDPO: Customized Direct Preference Optimization with a Metric-based Sampler
   for Question and Answer Generation'
 authors:
-- admin
+- me
 - Bowen Tian
 - Yueyang Su
 - Yixing Fan
