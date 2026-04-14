@@ -3,7 +3,7 @@ title: 🎉 Two Papers Accepted to ACL 2026 Main Conference!
 summary: 'Our two papers, "Detoxification for LLM: From Dataset Itself" and "Distilling Large Embeddings via Hyperspherical Householder Quantization," have been accepted to the ACL 2026 Main Conference! 🎉'
 date: 2026-04-07
 authors:
-  - admin
+  - me
 tags:
   - NLP
   - conference
