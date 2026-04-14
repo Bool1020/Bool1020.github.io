@@ -2,7 +2,7 @@
 title: 'Graph Foundation Models for Recommendation: A Comprehensive Survey'
 authors:
 - Bin Wu
-- admin
+- me
 - Yuanhao Zeng
 - Jiawei Liu
 - Jiashu Zhao
