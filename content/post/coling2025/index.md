@@ -3,7 +3,7 @@ title: 🎉 Congratulations on COLING 2025 Paper Acceptance!
 summary: 'Our paper "MDPO: Customized Direct Preference Optimization with a Metric-based Sampler for Question and Answer Generation" has been accepted by COLING 2025! 🎉'
 date: 2024-11-30
 authors:
-  - admin
+  - me
 tags:
   - NLP
   - conference
