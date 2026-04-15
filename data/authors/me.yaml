@@ -40,7 +40,7 @@ interests:
 education:
   - degree: M.Eng Artificial Intelligence
     institution: University of Chinese Academy of Sciences
-    icon: assets/media/icons/custom/ucas.png
+    icon: custom/ucas
     start: 2025-09-01
     # end: 2028-06-01
     summary: |
@@ -51,6 +51,7 @@ education:
     #   url: /resume.pdf
     #   icon: hero/arrow-down-tray
   - degree: B.Eng Artificial Intelligence
+    icon: custom/bupt
     institution: Beijing University of Posts and Telecommunications
     start: 2021-09-01
     end: 2025-06-01
@@ -58,18 +59,22 @@ education:
 experience:
   - role: Machine Learning Engineer Intern at Data Platform
     org: ByteDance
+    icon: custom/bytedance
     start: 2026-04-13
     end: ''
   - role: Large Model Algorithm Engineer Intern at TX Model
     org: MiniMax
+    icon: custom/minimax
     start: 2025-11-10
     end: 2026-04-10
   - role: Machine Learning Engineer Intern at Data Platform
     org: ByteDance
+    icon: custom/bytedance
     start: 2025-02-24
     end: 2025-07-01
   - role: Machine Learning R&D Engineer Intern at MEG (Mobile Ecosystem Group)
     org: Baidu, Inc.
+    icon: custom/baidu
     start: 2024-09-02
     end: 2025-02-21
     # summary: |2-
@@ -79,6 +84,7 @@ experience:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - role: Research Intern at CAS Key Lab of Web Data Science and Technology
     org: Institute of Computing Technology, Chinese Academy of Sciences
+    icon: custom/ict
     start: 2023-03-14
     end: 2024-08-01
     # summary: |
@@ -88,6 +94,7 @@ experience:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - role: Intern at FLOES
     org: Wuhan Ligong Guangke CO.Ltd
+    icon: custom/wutos
     start: 2022-06-11
     end: 2022-08-01
 
