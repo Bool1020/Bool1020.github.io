@@ -1,0 +1,25 @@
+@inproceedings{wang-etal-2026-distilling,
+    title = "Distilling Large Embeddings via Hyperspherical Householder Quantization",
+    author = "Wang, Yihang  and
+      Wu, Bin  and
+      Su, Yueyang  and
+      Zhang, Tianfu  and
+      Du, Yiqi  and
+      Yu, Lei  and
+      Guo, Jiafeng  and
+      Cheng, Xueqi",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.482/",
+    doi = "10.18653/v1/2026.acl-long.482",
+    pages = "10562--10576",
+    ISBN = "979-8-89176-390-6",
+    abstract = "Large embedding models have become the backbone of modern retrieval systems, offering strong semantic representations at the cost of substantial storage and computation. While recent work explores quantizing embeddings into discrete document identifiers for generative retrieval, most existing approaches rely on Euclidean quantization, which is poorly aligned with the angular geometry induced by contrastive embedding training and often requires long identifier sequences to preserve semantic fidelity. In this work, we propose \textit{Hyperspherical Householder Quantization} (HHQ), a geometry-aware distillation method that compresses large embeddings into short discrete representations via iterative Householder transformations on the unit hypersphere. By explicitly preserving cosine similarity at each step, HHQ distills semantic structure into compact identifiers that remain faithful to the original embedding space. To support reliable generation of these identifiers, we introduce constrained supervised fine-tuning and tree-aware dynamic masking to enforce structural validity during training and inference. Experiments on NQ and MS{~}MARCO show that HHQ achieves competitive or superior retrieval performance using only five tokens per document, substantially reducing decoding cost while retaining strong semantic retrieval accuracy."
+}
