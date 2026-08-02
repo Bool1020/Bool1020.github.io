@@ -82,7 +82,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Machine Learning Engineer Intern at Data Platform
+  - position: Large Model Algorithm Engineer Intern at Data Platform (Frontier Tech Recruitment Program)
     company_name: ByteDance
     company_url: ''
     company_logo: ''
