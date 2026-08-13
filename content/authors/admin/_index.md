@@ -87,7 +87,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2026-04-13
-    date_end: ''
+    date_end: 2026-08-19
   - position: Large Model Algorithm Engineer Intern at TX Model
     company_name: MiniMax
     company_url: ''
