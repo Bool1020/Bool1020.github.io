@@ -45,7 +45,7 @@ education:
     # end: 2028-06-01
     summary: |
       Academic Services:
-      - Secondary Reviewer: SIGIR 2025, KDD 2026
+      - Secondary Reviewer: SIGIR 2025, KDD 2026, AAAI 2026
     # button:
     #   text: Download dissertation
     #   url: /resume.pdf
@@ -57,6 +57,11 @@ education:
     end: 2025-06-01
 
 experience:
+  - role: Large Model Algorithm Engineer Intern
+    org: IQuest Research
+    icon: custom/iquest
+    start: 2026-08-20
+    end: 
   - role: Large Model Algorithm Engineer Intern at Data Platform (Frontier Tech Recruitment Program)
     org: ByteDance
     icon: custom/bytedance
