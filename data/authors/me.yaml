@@ -61,7 +61,7 @@ experience:
     org: IQuest Research
     icon: custom/iquest
     start: 2026-08-20
-    end: 
+    end: ''
   - role: Large Model Algorithm Engineer Intern at Data Platform (Frontier Tech Recruitment Program)
     org: ByteDance
     icon: custom/bytedance
